@@ -1,4 +1,4 @@
-#!/bin/bash -xe
+#!/bin/bash
 if [[ -e "index.html" ]]; then 
   echo "TEST PASSED!"; 
   exit 0;
